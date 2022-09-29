@@ -5,8 +5,8 @@ Attempt quizzes in a moodle course
 You can attempt quizzes in a certain moodle course
 
 ## Examples
-* "Open moodle quiz"
-* "Start moodle quiz"
+* "Open online quiz"
+* "Start online quiz"
 
 ## Credits
 kita

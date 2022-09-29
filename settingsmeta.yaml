@@ -1,17 +1,24 @@
 
 skillMetadata:
   sections:
-    - name: Options << Name of section
+    - name: Your Moodle URL
       fields:
-        - name: internal_python_variable_name
+        - name: domainname
           type: text
-          label: Setting Friendly Display Name
+          label: ex. https://foo.bar/moodle
           value: ""
           placeholder: demo prompt in the input box
-    - name: Login << Name of another section
+    - name: Your Moodle Course ID
+      fields:
+        - name: courseid
+          type: text
+          label: ex. 1
+          value: ""
+          placeholder: demo prompt in the input box
+    - name: Moodle account
       fields:
         - type: label
-          label: Just a little bit of extra info for the user to understand following settings
+          label: Your Moodle account
         - name: username
           type: text
           label: Username
